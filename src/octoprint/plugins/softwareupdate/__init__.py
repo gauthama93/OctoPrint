@@ -501,7 +501,7 @@ class SoftwareUpdatePlugin(
             "checks": {
                 "octoprint": {
                     "type": "github_release",
-                    "user": "foosel",
+                    "user": "FracktalWorks",
                     "repo": "OctoPrint",
                     "method": "pip",
                     "pip": "https://github.com/OctoPrint/OctoPrint/archive/{target_version}.zip",
